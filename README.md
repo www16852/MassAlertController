@@ -1,5 +1,6 @@
 # MassAlertController
-###客製化的Alert  
+### 客製化的Alert  
+blog: https://www16852.medium.com/34e3f4c4a1df
 開發目的:  將設計圖客製化Alert規格化，減少重複拉畫面的工作與時間。  
 ![Nov-17-2021 16-21-49](https://user-images.githubusercontent.com/15730633/142167444-294b4287-140a-469a-967e-1a494483076f.gif)
 
